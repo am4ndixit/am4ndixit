@@ -1,4 +1,4 @@
-# Hey, I'm Aman Dixit 👋
+# Hey, I'm Aman
 
 ### First-year CS student · AI/ML Explorer · Open Source Enthusiast
 
@@ -6,11 +6,11 @@ I'm a first-year B.Tech CSE (AI & ML) student at **Newton School of Technology, 
 
 I enjoy building things, experimenting with AI, and learning by solving real-world problems. My current goal is **Google Summer of Code 2027 (GSoC)**.
 
-- 🎯 **Current goal:** Prepare for GSoC 2027
-- 🤖 **Exploring:** AI/ML, LLMs, and AI-powered applications
-- 🛠️ **Building with:** Python, JavaScript, React, and FastAPI
-- 🌱 **Learning:** Software engineering and open-source collaboration
-- 📫 **Email:** [dixitaman117@gmail.com](mailto:dixitaman117@gmail.com)
+- **Current goal:** Prepare for GSoC 2027
+- **Exploring:** AI/ML, LLMs, and AI-powered applications
+- **Building with:** Python, JavaScript, React, and FastAPI
+- **Learning:** Software engineering and open-source collaboration
+- **Email:** [dixitaman117@gmail.com](mailto:dixitaman117@gmail.com)
 
 ---
 
@@ -30,7 +30,7 @@ I enjoy building things, experimenting with AI, and learning by solving real-wor
 
 > **Note:** Replace the Mastodon link above with your exact profile URL if you want it linked directly.
 
-## 💻 Tech Stack
+## Tech
 
 **Languages**
 
@@ -56,7 +56,7 @@ I enjoy building things, experimenting with AI, and learning by solving real-wor
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,blender,canva,vscode" alt="Git, GitHub, GitLab, Figma, Blender, Canva and VS Code" />
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 A few things I've been working on:
 
